@@ -1,6 +1,6 @@
 ## Image info.
 
-The image is built on rockylinux:latest and has the required certbot packages and also letsencrypt modules. However the main use case for this is to be able to request certificates for <FOO>.abakuscloud.com SSL certificates easily. 
+The image is built on rockylinux:latest and has the required certbot packages and also letsencrypt modules. 
 ## Usage with cloudflare DNS authentication
 	
 ### Required Tokens and Secrets 
