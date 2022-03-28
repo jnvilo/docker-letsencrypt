@@ -1,4 +1,4 @@
-REGISTRY_URL=harbor.abakuscloud.com
+REGISTRY_URL=jnvilo
 PROJECT=library
 IMAGE_NAME=letsencrypt
 TAG=0.0.1
