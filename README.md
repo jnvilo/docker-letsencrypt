@@ -6,8 +6,8 @@ The image is built on rockylinux:latest and has the required certbot packages an
 ### Required Tokens and Secrets 
 
 #### Cloudflare: 
-  * CLOUDFLARE_DNS_TOKEN - The API token from account cloud-admin@optiscangruop.com in cloudflare.com
-  * CLOUDFLARE_DNS_EMAIL - cloud-admin@optiscangroup.com (or your own sub account)
+  * CLOUDFLARE_DNS_TOKEN - The API token from account in cloudflare.com
+  * CLOUDFLARE_DNS_EMAIL - <username>@cloudflare.com
 
 ### To get a certificate:
 
